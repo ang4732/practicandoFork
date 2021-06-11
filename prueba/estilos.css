@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cards {
+  width: 90vw;
+  height: auto;
+  margin: 0 auto;
+}
+
+.card {
+  display: inline-block;
+  margin: 10px;
+  background-color: #222;
+
+}
+
+.card__figure {
+  color: yellow;
+}
+
+figcaption {
+  padding: 10px;
+}
+
+.lista {
+  margin-left: 10px;
+  list-style: square;
+}
+
+.correr {
+  margin-left: 30px;
+  list-style: circle;
+}
